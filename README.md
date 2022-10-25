@@ -1,9 +1,9 @@
 # React-GraphQL-Demo
 
-### React.js 接取 SpaceX-Api GraphQL的資料
-### 使用TypeScrip撰寫，GraphQL型別透過graphql-codege產生  
-<br />
+React.js 接取 SpaceX-Api GraphQL的資料  
 
+使用TypeScrip撰寫，GraphQL型別透過graphql-codege產生  
+<br />
 ## 套件
 * graphql
 * apollo
